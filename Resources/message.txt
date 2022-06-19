@@ -1,0 +1,459 @@
+[Warning:RoleplayRising_Server] 37713289:died:: AbilityBar_Server
+[Warning:RoleplayRising_Server] 37713289:died::AbilityBar_Server:field:TypeIndex:713
+[Warning:RoleplayRising_Server] 37713289:died::AbilityBar_Server:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: AbilityBar_Shared
+[Warning:RoleplayRising_Server] 37713289:died::AbilityBar_Shared:field:TypeIndex:715
+[Warning:RoleplayRising_Server] 37713289:died::AbilityBar_Shared:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: AggroConsumer
+[Warning:RoleplayRising_Server] 37713289:died::AggroConsumer:field:TypeIndex:749
+[Warning:RoleplayRising_Server] 37713289:died::AggroConsumer:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: Follower
+[Warning:RoleplayRising_Server] 37713289:died::Follower:field:TypeIndex:769
+[Warning:RoleplayRising_Server] 37713289:died::Follower:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: Dead
+[Warning:RoleplayRising_Server] 37713289:died::Dead:field:TypeIndex:819
+[Warning:RoleplayRising_Server] 37713289:died::Dead:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: EntityOwner
+[Warning:RoleplayRising_Server] 37713289:died::EntityOwner:field:TypeIndex:831
+[Warning:RoleplayRising_Server] 37713289:died::EntityOwner:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: EntityCreator
+[Warning:RoleplayRising_Server] 37713289:died::EntityCreator:field:TypeIndex:832
+[Warning:RoleplayRising_Server] 37713289:died::EntityCreator:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: BuffResistances
+[Warning:RoleplayRising_Server] 37713289:died::BuffResistances:field:TypeIndex:881
+[Warning:RoleplayRising_Server] 37713289:died::BuffResistances:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: Team
+[Warning:RoleplayRising_Server] 37713289:died::Team:field:TypeIndex:1041
+[Warning:RoleplayRising_Server] 37713289:died::Team:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: EntityInput
+[Warning:RoleplayRising_Server] 37713289:died::EntityInput:field:TypeIndex:1157
+[Warning:RoleplayRising_Server] 37713289:died::EntityInput:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: AiMove_Server
+[Warning:RoleplayRising_Server] 37713289:died::AiMove_Server:field:TypeIndex:1234
+[Warning:RoleplayRising_Server] 37713289:died::AiMove_Server:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: BehaviourTreeInstance
+[Warning:RoleplayRising_Server] 37713289:died::BehaviourTreeInstance:field:TypeIndex:1376
+[Warning:RoleplayRising_Server] 37713289:died::BehaviourTreeInstance:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: LastPathRequest
+[Warning:RoleplayRising_Server] 37713289:died::LastPathRequest:field:TypeIndex:1550
+[Warning:RoleplayRising_Server] 37713289:died::LastPathRequest:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: LocalToWorld
+[Warning:RoleplayRising_Server] 37713289:died::LocalToWorld:field:TypeIndex:16777366
+[Warning:RoleplayRising_Server] 37713289:died::LocalToWorld:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: Rotation
+[Warning:RoleplayRising_Server] 37713289:died::Rotation:field:TypeIndex:16777378
+[Warning:RoleplayRising_Server] 37713289:died::Rotation:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: Translation
+[Warning:RoleplayRising_Server] 37713289:died::Translation:field:TypeIndex:16777386
+[Warning:RoleplayRising_Server] 37713289:died::Translation:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: PhysicsCollider
+[Warning:RoleplayRising_Server] 37713289:died::PhysicsCollider:field:TypeIndex:16777424
+[Warning:RoleplayRising_Server] 37713289:died::PhysicsCollider:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: StaticPhysicsWorldBodyIndex
+[Warning:RoleplayRising_Server] 37713289:died::StaticPhysicsWorldBodyIndex:field:TypeIndex:16777438
+[Warning:RoleplayRising_Server] 37713289:died::StaticPhysicsWorldBodyIndex:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: PrefabGUID
+[Warning:RoleplayRising_Server] 37713289:died::PrefabGUID:field:TypeIndex:16777507
+[Warning:RoleplayRising_Server] 37713289:died::PrefabGUID:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: AbilityBarInitializationState
+[Warning:RoleplayRising_Server] 37713289:died::AbilityBarInitializationState:field:TypeIndex:16777928
+[Warning:RoleplayRising_Server] 37713289:died::AbilityBarInitializationState:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: GainAggroByAlert
+[Warning:RoleplayRising_Server] 37713289:died::GainAggroByAlert:field:TypeIndex:16777966
+[Warning:RoleplayRising_Server] 37713289:died::GainAggroByAlert:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: GainAggroByVicinity
+[Warning:RoleplayRising_Server] 37713289:died::GainAggroByVicinity:field:TypeIndex:16777967
+[Warning:RoleplayRising_Server] 37713289:died::GainAggroByVicinity:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: GainAlertByVicinity
+[Warning:RoleplayRising_Server] 37713289:died::GainAlertByVicinity:field:TypeIndex:16777969
+[Warning:RoleplayRising_Server] 37713289:died::GainAlertByVicinity:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: AggroModifiers
+[Warning:RoleplayRising_Server] 37713289:died::AggroModifiers:field:TypeIndex:16777972
+[Warning:RoleplayRising_Server] 37713289:died::AggroModifiers:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: AlertModifiers
+[Warning:RoleplayRising_Server] 37713289:died::AlertModifiers:field:TypeIndex:16777973
+[Warning:RoleplayRising_Server] 37713289:died::AlertModifiers:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: AggroDamageHistoryConfig
+[Warning:RoleplayRising_Server] 37713289:died::AggroDamageHistoryConfig:field:TypeIndex:16777976
+[Warning:RoleplayRising_Server] 37713289:died::AggroDamageHistoryConfig:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: AiPrioritization_Data
+[Warning:RoleplayRising_Server] 37713289:died::AiPrioritization_Data:field:TypeIndex:16777977
+[Warning:RoleplayRising_Server] 37713289:died::AiPrioritization_Data:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: AiPrioritization_State
+[Warning:RoleplayRising_Server] 37713289:died::AiPrioritization_State:field:TypeIndex:16777978
+[Warning:RoleplayRising_Server] 37713289:died::AiPrioritization_State:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: Aggroable
+[Warning:RoleplayRising_Server] 37713289:died::Aggroable:field:TypeIndex:16777979
+[Warning:RoleplayRising_Server] 37713289:died::Aggroable:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: AiMoveSpeeds
+[Warning:RoleplayRising_Server] 37713289:died::AiMoveSpeeds:field:TypeIndex:16777980
+[Warning:RoleplayRising_Server] 37713289:died::AiMoveSpeeds:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: CastHistoryData
+[Warning:RoleplayRising_Server] 37713289:died::CastHistoryData:field:TypeIndex:16777982
+[Warning:RoleplayRising_Server] 37713289:died::CastHistoryData:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: FactionReference
+[Warning:RoleplayRising_Server] 37713289:died::FactionReference:field:TypeIndex:16777984
+[Warning:RoleplayRising_Server] 37713289:died::FactionReference:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: BloodConsumeSource
+[Warning:RoleplayRising_Server] 37713289:died::BloodConsumeSource:field:TypeIndex:16778004
+[Warning:RoleplayRising_Server] 37713289:died::BloodConsumeSource:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: DestroyData
+[Warning:RoleplayRising_Server] 37713289:died::DestroyData:field:TypeIndex:16778036
+[Warning:RoleplayRising_Server] 37713289:died::DestroyData:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: DestroyState
+[Warning:RoleplayRising_Server] 37713289:died::DestroyState:field:TypeIndex:16778037
+[Warning:RoleplayRising_Server] 37713289:died::DestroyState:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: Buffable
+[Warning:RoleplayRising_Server] 37713289:died::Buffable:field:TypeIndex:16778098
+[Warning:RoleplayRising_Server] 37713289:died::Buffable:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: Hideable
+[Warning:RoleplayRising_Server] 37713289:died::Hideable:field:TypeIndex:16778114
+[Warning:RoleplayRising_Server] 37713289:died::Hideable:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: Stealthable
+[Warning:RoleplayRising_Server] 37713289:died::Stealthable:field:TypeIndex:16778139
+[Warning:RoleplayRising_Server] 37713289:died::Stealthable:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: Health
+[Warning:RoleplayRising_Server] 37713289:died::Health:field:TypeIndex:16778146
+[Warning:RoleplayRising_Server] 37713289:died::Health:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: HealthConstants
+[Warning:RoleplayRising_Server] 37713289:died::HealthConstants:field:TypeIndex:16778147
+[Warning:RoleplayRising_Server] 37713289:died::HealthConstants:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: LastTranslation
+[Warning:RoleplayRising_Server] 37713289:died::LastTranslation:field:TypeIndex:16778166
+[Warning:RoleplayRising_Server] 37713289:died::LastTranslation:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: Movement
+[Warning:RoleplayRising_Server] 37713289:died::Movement:field:TypeIndex:16778190
+[Warning:RoleplayRising_Server] 37713289:died::Movement:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: CollisionRadius
+[Warning:RoleplayRising_Server] 37713289:died::CollisionRadius:field:TypeIndex:16778196
+[Warning:RoleplayRising_Server] 37713289:died::CollisionRadius:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: MapCollision
+[Warning:RoleplayRising_Server] 37713289:died::MapCollision:field:TypeIndex:16778197
+[Warning:RoleplayRising_Server] 37713289:died::MapCollision:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: Velocity
+[Warning:RoleplayRising_Server] 37713289:died::Velocity:field:TypeIndex:16778198
+[Warning:RoleplayRising_Server] 37713289:died::Velocity:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: SpawnTransform
+[Warning:RoleplayRising_Server] 37713289:died::SpawnTransform:field:TypeIndex:16778249
+[Warning:RoleplayRising_Server] 37713289:died::SpawnTransform:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: TargetDirection
+[Warning:RoleplayRising_Server] 37713289:died::TargetDirection:field:TypeIndex:16778254
+[Warning:RoleplayRising_Server] 37713289:died::TargetDirection:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: JoinDefaultTeamOnSpawn
+[Warning:RoleplayRising_Server] 37713289:died::JoinDefaultTeamOnSpawn:field:TypeIndex:16778261
+[Warning:RoleplayRising_Server] 37713289:died::JoinDefaultTeamOnSpawn:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: TileBounds
+[Warning:RoleplayRising_Server] 37713289:died::TileBounds:field:TypeIndex:16778266
+[Warning:RoleplayRising_Server] 37713289:died::TileBounds:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: TilePosition
+[Warning:RoleplayRising_Server] 37713289:died::TilePosition:field:TypeIndex:16778267
+[Warning:RoleplayRising_Server] 37713289:died::TilePosition:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: TileModelSpatialData
+[Warning:RoleplayRising_Server] 37713289:died::TileModelSpatialData:field:TypeIndex:16778268
+[Warning:RoleplayRising_Server] 37713289:died::TileModelSpatialData:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: TileData
+[Warning:RoleplayRising_Server] 37713289:died::TileData:field:TypeIndex:16778269
+[Warning:RoleplayRising_Server] 37713289:died::TileData:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: UnitRespawnTime
+[Warning:RoleplayRising_Server] 37713289:died::UnitRespawnTime:field:TypeIndex:16778280
+[Warning:RoleplayRising_Server] 37713289:died::UnitRespawnTime:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: WoundedConstants
+[Warning:RoleplayRising_Server] 37713289:died::WoundedConstants:field:TypeIndex:16778302
+[Warning:RoleplayRising_Server] 37713289:died::WoundedConstants:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: EntityCategory
+[Warning:RoleplayRising_Server] 37713289:died::EntityCategory:field:TypeIndex:16778336
+[Warning:RoleplayRising_Server] 37713289:died::EntityCategory:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: Immaterial
+[Warning:RoleplayRising_Server] 37713289:died::Immaterial:field:TypeIndex:16778341
+[Warning:RoleplayRising_Server] 37713289:died::Immaterial:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: Invulnerable
+[Warning:RoleplayRising_Server] 37713289:died::Invulnerable:field:TypeIndex:16778344
+[Warning:RoleplayRising_Server] 37713289:died::Invulnerable:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: UnitLevel
+[Warning:RoleplayRising_Server] 37713289:died::UnitLevel:field:TypeIndex:16778364
+[Warning:RoleplayRising_Server] 37713289:died::UnitLevel:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: Vision
+[Warning:RoleplayRising_Server] 37713289:died::Vision:field:TypeIndex:16778367
+[Warning:RoleplayRising_Server] 37713289:died::Vision:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: EntityAimData
+[Warning:RoleplayRising_Server] 37713289:died::EntityAimData:field:TypeIndex:16778374
+[Warning:RoleplayRising_Server] 37713289:died::EntityAimData:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: MoveVelocity
+[Warning:RoleplayRising_Server] 37713289:died::MoveVelocity:field:TypeIndex:16778375
+[Warning:RoleplayRising_Server] 37713289:died::MoveVelocity:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: ModifiableValueIds
+[Warning:RoleplayRising_Server] 37713289:died::ModifiableValueIds:field:TypeIndex:16778378
+[Warning:RoleplayRising_Server] 37713289:died::ModifiableValueIds:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: CanPreventDisableWhenNoPlayersInRange
+[Warning:RoleplayRising_Server] 37713289:died::CanPreventDisableWhenNoPlayersInRange:field:TypeIndex:16778389
+[Warning:RoleplayRising_Server] 37713289:died::CanPreventDisableWhenNoPlayersInRange:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: ResistanceData
+[Warning:RoleplayRising_Server] 37713289:died::ResistanceData:field:TypeIndex:16778411
+[Warning:RoleplayRising_Server] 37713289:died::ResistanceData:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: UnitStats
+[Warning:RoleplayRising_Server] 37713289:died::UnitStats:field:TypeIndex:16778441
+[Warning:RoleplayRising_Server] 37713289:died::UnitStats:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: AiMove_Shared
+[Warning:RoleplayRising_Server] 37713289:died::AiMove_Shared:field:TypeIndex:16778449
+[Warning:RoleplayRising_Server] 37713289:died::AiMove_Shared:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: MinionSpawnData
+[Warning:RoleplayRising_Server] 37713289:died::MinionSpawnData:field:TypeIndex:16778451
+[Warning:RoleplayRising_Server] 37713289:died::MinionSpawnData:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: GenericCombatMovementData
+[Warning:RoleplayRising_Server] 37713289:died::GenericCombatMovementData:field:TypeIndex:16778452
+[Warning:RoleplayRising_Server] 37713289:died::GenericCombatMovementData:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: MiscAiGameplayData
+[Warning:RoleplayRising_Server] 37713289:died::MiscAiGameplayData:field:TypeIndex:16778455
+[Warning:RoleplayRising_Server] 37713289:died::MiscAiGameplayData:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: ImpactMaterial
+[Warning:RoleplayRising_Server] 37713289:died::ImpactMaterial:field:TypeIndex:16778509
+[Warning:RoleplayRising_Server] 37713289:died::ImpactMaterial:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: NetworkedTimeout
+[Warning:RoleplayRising_Server] 37713289:died::NetworkedTimeout:field:TypeIndex:16778533
+[Warning:RoleplayRising_Server] 37713289:died::NetworkedTimeout:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: NetworkedSettings
+[Warning:RoleplayRising_Server] 37713289:died::NetworkedSettings:field:TypeIndex:16778535
+[Warning:RoleplayRising_Server] 37713289:died::NetworkedSettings:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: FrameChanged
+[Warning:RoleplayRising_Server] 37713289:died::FrameChanged:field:TypeIndex:16778547
+[Warning:RoleplayRising_Server] 37713289:died::FrameChanged:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: NetworkId
+[Warning:RoleplayRising_Server] 37713289:died::NetworkId:field:TypeIndex:16778551
+[Warning:RoleplayRising_Server] 37713289:died::NetworkId:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: NetworkSnapshot
+[Warning:RoleplayRising_Server] 37713289:died::NetworkSnapshot:field:TypeIndex:16778553
+[Warning:RoleplayRising_Server] 37713289:died::NetworkSnapshot:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: HybridModelSeed
+[Warning:RoleplayRising_Server] 37713289:died::HybridModelSeed:field:TypeIndex:16778585
+[Warning:RoleplayRising_Server] 37713289:died::HybridModelSeed:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: DeathRagdollForce
+[Warning:RoleplayRising_Server] 37713289:died::DeathRagdollForce:field:TypeIndex:16778586
+[Warning:RoleplayRising_Server] 37713289:died::DeathRagdollForce:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: BehaviourTreeBinding
+[Warning:RoleplayRising_Server] 37713289:died::BehaviourTreeBinding:field:TypeIndex:16778595
+[Warning:RoleplayRising_Server] 37713289:died::BehaviourTreeBinding:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: BehaviourTreeState
+[Warning:RoleplayRising_Server] 37713289:died::BehaviourTreeState:field:TypeIndex:16778599
+[Warning:RoleplayRising_Server] 37713289:died::BehaviourTreeState:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: BehaviourTreeStateMetadata
+[Warning:RoleplayRising_Server] 37713289:died::BehaviourTreeStateMetadata:field:TypeIndex:16778600
+[Warning:RoleplayRising_Server] 37713289:died::BehaviourTreeStateMetadata:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: TileModel
+[Warning:RoleplayRising_Server] 37713289:died::TileModel:field:TypeIndex:16778610
+[Warning:RoleplayRising_Server] 37713289:died::TileModel:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: AiDebugDraw
+[Warning:RoleplayRising_Server] 37713289:died::AiDebugDraw:field:TypeIndex:16778756
+[Warning:RoleplayRising_Server] 37713289:died::AiDebugDraw:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: Pathfinder
+[Warning:RoleplayRising_Server] 37713289:died::Pathfinder:field:TypeIndex:16778765
+[Warning:RoleplayRising_Server] 37713289:died::Pathfinder:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: PlacementDestroyData
+[Warning:RoleplayRising_Server] 37713289:died::PlacementDestroyData:field:TypeIndex:16779642
+[Warning:RoleplayRising_Server] 37713289:died::PlacementDestroyData:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: CastleAreaRequirement
+[Warning:RoleplayRising_Server] 37713289:died::CastleAreaRequirement:field:TypeIndex:16779645
+[Warning:RoleplayRising_Server] 37713289:died::CastleAreaRequirement:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: Interactable
+[Warning:RoleplayRising_Server] 37713289:died::Interactable:field:TypeIndex:16779767
+[Warning:RoleplayRising_Server] 37713289:died::Interactable:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: InteractedUpon
+[Warning:RoleplayRising_Server] 37713289:died::InteractedUpon:field:TypeIndex:16779768
+[Warning:RoleplayRising_Server] 37713289:died::InteractedUpon:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: SpawnBuffIfPlayerInRange
+[Warning:RoleplayRising_Server] 37713289:died::SpawnBuffIfPlayerInRange:field:TypeIndex:16779789
+[Warning:RoleplayRising_Server] 37713289:died::SpawnBuffIfPlayerInRange:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: TravelToTargetRadius
+[Warning:RoleplayRising_Server] 37713289:died::TravelToTargetRadius:field:TypeIndex:16779792
+[Warning:RoleplayRising_Server] 37713289:died::TravelToTargetRadius:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: DynamicCollision
+[Warning:RoleplayRising_Server] 37713289:died::DynamicCollision:field:TypeIndex:16779817
+[Warning:RoleplayRising_Server] 37713289:died::DynamicCollision:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: Height
+[Warning:RoleplayRising_Server] 37713289:died::Height:field:TypeIndex:16779884
+[Warning:RoleplayRising_Server] 37713289:died::Height:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: AoETargetImportance
+[Warning:RoleplayRising_Server] 37713289:died::AoETargetImportance:field:TypeIndex:16779942
+[Warning:RoleplayRising_Server] 37713289:died::AoETargetImportance:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: Torture
+[Warning:RoleplayRising_Server] 37713289:died::Torture:field:TypeIndex:16779962
+[Warning:RoleplayRising_Server] 37713289:died::Torture:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: YieldEssenceOnDeath
+[Warning:RoleplayRising_Server] 37713289:died::YieldEssenceOnDeath:field:TypeIndex:16779979
+[Warning:RoleplayRising_Server] 37713289:died::YieldEssenceOnDeath:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: IsSpellControlled
+[Warning:RoleplayRising_Server] 37713289:died::IsSpellControlled:field:TypeIndex:16780073
+[Warning:RoleplayRising_Server] 37713289:died::IsSpellControlled:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: ServantConvertable
+[Warning:RoleplayRising_Server] 37713289:died::ServantConvertable:field:TypeIndex:16780111
+[Warning:RoleplayRising_Server] 37713289:died::ServantConvertable:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: NetworkInterpolated_Shared
+[Warning:RoleplayRising_Server] 37713289:died::NetworkInterpolated_Shared:field:TypeIndex:16780437
+[Warning:RoleplayRising_Server] 37713289:died::NetworkInterpolated_Shared:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: AttachParentId
+[Warning:RoleplayRising_Server] 37713289:died::AttachParentId:field:TypeIndex:50334180
+[Warning:RoleplayRising_Server] 37713289:died::AttachParentId:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: AggroBuffer [B]
+[Warning:RoleplayRising_Server] 37713289:died::AggroBuffer [B]:field:TypeIndex:67109616
+[Warning:RoleplayRising_Server] 37713289:died::AggroBuffer [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: AlertBuffer [B]
+[Warning:RoleplayRising_Server] 37713289:died::AlertBuffer [B]:field:TypeIndex:67109618
+[Warning:RoleplayRising_Server] 37713289:died::AlertBuffer [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: AggroCandidateBufferElement [B]
+[Warning:RoleplayRising_Server] 37713289:died::AggroCandidateBufferElement [B]:field:TypeIndex:67109619
+[Warning:RoleplayRising_Server] 37713289:died::AggroCandidateBufferElement [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: AggroDamageHistoryBufferElement [B]
+[Warning:RoleplayRising_Server] 37713289:died::AggroDamageHistoryBufferElement [B]:field:TypeIndex:67109622
+[Warning:RoleplayRising_Server] 37713289:died::AggroDamageHistoryBufferElement [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: ExternalAggroBufferElement [B]
+[Warning:RoleplayRising_Server] 37713289:died::ExternalAggroBufferElement [B]:field:TypeIndex:67109623
+[Warning:RoleplayRising_Server] 37713289:died::ExternalAggroBufferElement [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: AttachedBuffer [B]
+[Warning:RoleplayRising_Server] 37713289:died::AttachedBuffer [B]:field:TypeIndex:67109648
+[Warning:RoleplayRising_Server] 37713289:died::AttachedBuffer [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: AbilityGroupSlotBuffer [B]
+[Warning:RoleplayRising_Server] 37713289:died::AbilityGroupSlotBuffer [B]:field:TypeIndex:67109721
+[Warning:RoleplayRising_Server] 37713289:died::AbilityGroupSlotBuffer [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: EntitiesInView_Server [B]
+[Warning:RoleplayRising_Server] 37713289:died::EntitiesInView_Server [B]:field:TypeIndex:67110016
+[Warning:RoleplayRising_Server] 37713289:died::EntitiesInView_Server [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: BoolModificationBuffer [B]
+[Warning:RoleplayRising_Server] 37713289:died::BoolModificationBuffer [B]:field:TypeIndex:67110027
+[Warning:RoleplayRising_Server] 37713289:died::BoolModificationBuffer [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: EntityModificationBuffer [B]
+[Warning:RoleplayRising_Server] 37713289:died::EntityModificationBuffer [B]:field:TypeIndex:67110028
+[Warning:RoleplayRising_Server] 37713289:died::EntityModificationBuffer [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: FloatModificationBuffer [B]
+[Warning:RoleplayRising_Server] 37713289:died::FloatModificationBuffer [B]:field:TypeIndex:67110029
+[Warning:RoleplayRising_Server] 37713289:died::FloatModificationBuffer [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: Float3ModificationBuffer [B]
+[Warning:RoleplayRising_Server] 37713289:died::Float3ModificationBuffer [B]:field:TypeIndex:67110030
+[Warning:RoleplayRising_Server] 37713289:died::Float3ModificationBuffer [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: IntModificationBuffer [B]
+[Warning:RoleplayRising_Server] 37713289:died::IntModificationBuffer [B]:field:TypeIndex:67110031
+[Warning:RoleplayRising_Server] 37713289:died::IntModificationBuffer [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: NetworkedEntityModificationBuffer [B]
+[Warning:RoleplayRising_Server] 37713289:died::NetworkedEntityModificationBuffer [B]:field:TypeIndex:67110032
+[Warning:RoleplayRising_Server] 37713289:died::NetworkedEntityModificationBuffer [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: PrefabGUIDModificationBuffer [B]
+[Warning:RoleplayRising_Server] 37713289:died::PrefabGUIDModificationBuffer [B]:field:TypeIndex:67110033
+[Warning:RoleplayRising_Server] 37713289:died::PrefabGUIDModificationBuffer [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: BehaviourTreeStateActiveBuffsBuffer [B]
+[Warning:RoleplayRising_Server] 37713289:died::BehaviourTreeStateActiveBuffsBuffer [B]:field:TypeIndex:67110251
+[Warning:RoleplayRising_Server] 37713289:died::BehaviourTreeStateActiveBuffsBuffer [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: BlackboardElement [B]
+[Warning:RoleplayRising_Server] 37713289:died::BlackboardElement [B]:field:TypeIndex:83886358
+[Warning:RoleplayRising_Server] 37713289:died::BlackboardElement [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: CastHistoryBufferElement [B]
+[Warning:RoleplayRising_Server] 37713289:died::CastHistoryBufferElement [B]:field:TypeIndex:83886845
+[Warning:RoleplayRising_Server] 37713289:died::CastHistoryBufferElement [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: RandomBloodTypeBuffer [B]
+[Warning:RoleplayRising_Server] 37713289:died::RandomBloodTypeBuffer [B]:field:TypeIndex:83886867
+[Warning:RoleplayRising_Server] 37713289:died::RandomBloodTypeBuffer [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: SharedGameplayConditionReference [B]
+[Warning:RoleplayRising_Server] 37713289:died::SharedGameplayConditionReference [B]:field:TypeIndex:83887287
+[Warning:RoleplayRising_Server] 37713289:died::SharedGameplayConditionReference [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: GameplayConditionGroup [B]
+[Warning:RoleplayRising_Server] 37713289:died::GameplayConditionGroup [B]:field:TypeIndex:83887288
+[Warning:RoleplayRising_Server] 37713289:died::GameplayConditionGroup [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: GameplayCondition [B]
+[Warning:RoleplayRising_Server] 37713289:died::GameplayCondition [B]:field:TypeIndex:83887289
+[Warning:RoleplayRising_Server] 37713289:died::GameplayCondition [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: NetSnapshot [B]
+[Warning:RoleplayRising_Server] 37713289:died::NetSnapshot [B]:field:TypeIndex:83887410
+[Warning:RoleplayRising_Server] 37713289:died::NetSnapshot [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: SnapshotFrameChangedBuffer [B]
+[Warning:RoleplayRising_Server] 37713289:died::SnapshotFrameChangedBuffer [B]:field:TypeIndex:83887412
+[Warning:RoleplayRising_Server] 37713289:died::SnapshotFrameChangedBuffer [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: BehaviourTreeStateBuffsBuffer [B]
+[Warning:RoleplayRising_Server] 37713289:died::BehaviourTreeStateBuffsBuffer [B]:field:TypeIndex:83887466
+[Warning:RoleplayRising_Server] 37713289:died::BehaviourTreeStateBuffsBuffer [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: PathBuffer [B]
+[Warning:RoleplayRising_Server] 37713289:died::PathBuffer [B]:field:TypeIndex:83887625
+[Warning:RoleplayRising_Server] 37713289:died::PathBuffer [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: PathRequestFilledSegmentBuffer [B]
+[Warning:RoleplayRising_Server] 37713289:died::PathRequestFilledSegmentBuffer [B]:field:TypeIndex:83887626
+[Warning:RoleplayRising_Server] 37713289:died::PathRequestFilledSegmentBuffer [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: UnsmoothedPathBuffer [B]
+[Warning:RoleplayRising_Server] 37713289:died::UnsmoothedPathBuffer [B]:field:TypeIndex:83887631
+[Warning:RoleplayRising_Server] 37713289:died::UnsmoothedPathBuffer [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: InteractAbilityBuffer [B]
+[Warning:RoleplayRising_Server] 37713289:died::InteractAbilityBuffer [B]:field:TypeIndex:83888638
+[Warning:RoleplayRising_Server] 37713289:died::InteractAbilityBuffer [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: CreateGameplayEventsOnSpawn [B]
+[Warning:RoleplayRising_Server] 37713289:died::CreateGameplayEventsOnSpawn [B]:field:TypeIndex:83888702
+[Warning:RoleplayRising_Server] 37713289:died::CreateGameplayEventsOnSpawn [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: ApplyBuffOnGameplayEvent [B]
+[Warning:RoleplayRising_Server] 37713289:died::ApplyBuffOnGameplayEvent [B]:field:TypeIndex:83888705
+[Warning:RoleplayRising_Server] 37713289:died::ApplyBuffOnGameplayEvent [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: ApplyBuffOnGameplayEventEntry [B]
+[Warning:RoleplayRising_Server] 37713289:died::ApplyBuffOnGameplayEventEntry [B]:field:TypeIndex:83888706
+[Warning:RoleplayRising_Server] 37713289:died::ApplyBuffOnGameplayEventEntry [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: GameplayEventIdMapping [B]
+[Warning:RoleplayRising_Server] 37713289:died::GameplayEventIdMapping [B]:field:TypeIndex:83888721
+[Warning:RoleplayRising_Server] 37713289:died::GameplayEventIdMapping [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: DropTableBuffer [B]
+[Warning:RoleplayRising_Server] 37713289:died::DropTableBuffer [B]:field:TypeIndex:83888794
+[Warning:RoleplayRising_Server] 37713289:died::DropTableBuffer [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: Script_SCTChatOnAggro_Buffer [B]
+[Warning:RoleplayRising_Server] 37713289:died::Script_SCTChatOnAggro_Buffer [B]:field:TypeIndex:83889766
+[Warning:RoleplayRising_Server] 37713289:died::Script_SCTChatOnAggro_Buffer [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: BehaviourTreeNodeInstanceElement [B]
+[Warning:RoleplayRising_Server] 37713289:died::BehaviourTreeNodeInstanceElement [B]:field:TypeIndex:83890154
+[Warning:RoleplayRising_Server] 37713289:died::BehaviourTreeNodeInstanceElement [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: Snapshot_AbilityGroupSlotBuffer [B]
+[Warning:RoleplayRising_Server] 37713289:died::Snapshot_AbilityGroupSlotBuffer [B]:field:TypeIndex:83890180
+[Warning:RoleplayRising_Server] 37713289:died::Snapshot_AbilityGroupSlotBuffer [B]:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: PrefabCollectionPrefabTag
+[Warning:RoleplayRising_Server] 37713289:died::PrefabCollectionPrefabTag:field:TypeIndex:1090519323
+[Warning:RoleplayRising_Server] 37713289:died::PrefabCollectionPrefabTag:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: UsesSpawnTag
+[Warning:RoleplayRising_Server] 37713289:died::UsesSpawnTag:field:TypeIndex:1090519334
+[Warning:RoleplayRising_Server] 37713289:died::UsesSpawnTag:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: CharmSource
+[Warning:RoleplayRising_Server] 37713289:died::CharmSource:field:TypeIndex:1090519851
+[Warning:RoleplayRising_Server] 37713289:died::CharmSource:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: MoveEntity
+[Warning:RoleplayRising_Server] 37713289:died::MoveEntity:field:TypeIndex:1090520013
+[Warning:RoleplayRising_Server] 37713289:died::MoveEntity:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: TilePlacementTag
+[Warning:RoleplayRising_Server] 37713289:died::TilePlacementTag:field:TypeIndex:1090520100
+[Warning:RoleplayRising_Server] 37713289:died::TilePlacementTag:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: DisableWhenNoPlayersInRange
+[Warning:RoleplayRising_Server] 37713289:died::DisableWhenNoPlayersInRange:field:TypeIndex:1090520212
+[Warning:RoleplayRising_Server] 37713289:died::DisableWhenNoPlayersInRange:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: Networked
+[Warning:RoleplayRising_Server] 37713289:died::Networked:field:TypeIndex:1090520354
+[Warning:RoleplayRising_Server] 37713289:died::Networked:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: MoveStopTrigger
+[Warning:RoleplayRising_Server] 37713289:died::MoveStopTrigger:field:TypeIndex:1090521537
+[Warning:RoleplayRising_Server] 37713289:died::MoveStopTrigger:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: SnapToHeight
+[Warning:RoleplayRising_Server] 37713289:died::SnapToHeight:field:TypeIndex:1090521713
+[Warning:RoleplayRising_Server] 37713289:died::SnapToHeight:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: HideOutsideVision
+[Warning:RoleplayRising_Server] 37713289:died::HideOutsideVision:field:TypeIndex:1090521714
+[Warning:RoleplayRising_Server] 37713289:died::HideOutsideVision:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: DropTable
+[Warning:RoleplayRising_Server] 37713289:died::DropTable:field:TypeIndex:1090521749
+[Warning:RoleplayRising_Server] 37713289:died::DropTable:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: DropTableOnDeath
+[Warning:RoleplayRising_Server] 37713289:died::DropTableOnDeath:field:TypeIndex:1090521750
+[Warning:RoleplayRising_Server] 37713289:died::DropTableOnDeath:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: EntitySpawnedMetadata
+[Warning:RoleplayRising_Server] 37713289:died::EntitySpawnedMetadata:field:TypeIndex:1090523135
+[Warning:RoleplayRising_Server] 37713289:died::EntitySpawnedMetadata:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: EntityMetadata
+[Warning:RoleplayRising_Server] 37713289:died::EntityMetadata:field:TypeIndex:1124077568
+[Warning:RoleplayRising_Server] 37713289:died::EntityMetadata:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: BlobAssetOwner
+[Warning:RoleplayRising_Server] 37713289:died::BlobAssetOwner:field:TypeIndex:1224736822
+[Warning:RoleplayRising_Server] 37713289:died::BlobAssetOwner:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: TileModelRegistrationState
+[Warning:RoleplayRising_Server] 37713289:died::TileModelRegistrationState:field:TypeIndex:1224737814
+[Warning:RoleplayRising_Server] 37713289:died::TileModelRegistrationState:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: NetworkSnapshotType
+[Warning:RoleplayRising_Server] 37713289:died::NetworkSnapshotType:field:TypeIndex:1224738104
+[Warning:RoleplayRising_Server] 37713289:died::NetworkSnapshotType:field:AccessModeType:ReadWrite
+[Warning:RoleplayRising_Server] 37713289:died:: TileModelLayer
+[Warning:RoleplayRising_Server] 37713289:died::TileModelLayer:field:TypeIndex:1224738164
+[Warning:RoleplayRising_Server] 37713289:died::TileModelLayer:field:AccessModeType:ReadWrite

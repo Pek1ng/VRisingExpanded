@@ -1,0 +1,354 @@
+[Warning:RoleplayRising_Server] Source: EntityOwner
+[Warning:RoleplayRising_Server] Source: EntityCreator
+[Warning:RoleplayRising_Server] Source: AbilityOwner
+[Warning:RoleplayRising_Server] Source: Team
+[Warning:RoleplayRising_Server] Source: LocalToWorld
+[Warning:RoleplayRising_Server] Source: Rotation
+[Warning:RoleplayRising_Server] Source: Translation
+[Warning:RoleplayRising_Server] Source: PrefabGUID
+[Warning:RoleplayRising_Server] Source: DestroyData
+[Warning:RoleplayRising_Server] Source: DestroyState
+[Warning:RoleplayRising_Server] Source: Age
+[Warning:RoleplayRising_Server] Source: LifeTime
+[Warning:RoleplayRising_Server] Source: JoinDefaultTeamOnSpawn
+[Warning:RoleplayRising_Server] Source: ModifiableValueIds
+[Warning:RoleplayRising_Server] Source: NetworkedSettings
+[Warning:RoleplayRising_Server] Source: UpToDateUserBitMask
+[Warning:RoleplayRising_Server] Source: FrameChanged
+[Warning:RoleplayRising_Server] Source: NetworkId
+[Warning:RoleplayRising_Server] Source: NetworkSnapshot
+[Warning:RoleplayRising_Server] Source: GetOwnerRotation
+[Warning:RoleplayRising_Server] Source: GetOwnerTranslationOnSpawn
+[Warning:RoleplayRising_Server] Source: RagdollForceSource
+[Warning:RoleplayRising_Server] Source: Script_CreateGameplayEventOnHitDetection_DataServer
+[Warning:RoleplayRising_Server] Source: HitTrigger [B]
+[Warning:RoleplayRising_Server] Source: NetworkedEntityModificationBuffer [B]
+[Warning:RoleplayRising_Server] Source: DealDamageOnGameplayEvent [B]
+[Warning:RoleplayRising_Server] Source: SharedGameplayConditionReference [B]
+[Warning:RoleplayRising_Server] Source: GameplayConditionGroup [B]
+[Warning:RoleplayRising_Server] Source: GameplayCondition [B]
+[Warning:RoleplayRising_Server] Source: NetSnapshot [B]
+[Warning:RoleplayRising_Server] Source: SnapshotFrameChangedBuffer [B]
+[Warning:RoleplayRising_Server] Source: CreateGameplayEventsOnDestroy [B]
+[Warning:RoleplayRising_Server] Source: CreateGameplayEventsOnHit [B]
+[Warning:RoleplayRising_Server] Source: CreateGameplayEventsOnSpawn [B]
+[Warning:RoleplayRising_Server] Source: ApplyKnockbackOnGameplayEvent [B]
+[Warning:RoleplayRising_Server] Source: ChangeEnergyOnGameplayEvent [B]
+[Warning:RoleplayRising_Server] Source: HealOnGameplayEvent [B]
+[Warning:RoleplayRising_Server] Source: GameplayEventIdMapping [B]
+[Warning:RoleplayRising_Server] Source: PlayBlinkSequenceOnGameplayEvent [B]
+[Warning:RoleplayRising_Server] Source: PlayImpactOnGameplayEvent [B]
+[Warning:RoleplayRising_Server] Source: PlaySequenceOnGameplayEvent [B]
+[Warning:RoleplayRising_Server] Source: SpawnPrefabOnGameplayEvent [B]
+[Warning:RoleplayRising_Server] Source: TriggerCounterOnGameplayEvent [B]
+[Warning:RoleplayRising_Server] Source: TriggerDirectionalShieldOnGameplayEvent [B]
+[Warning:RoleplayRising_Server] Source: HitColliderCast [B]
+[Warning:RoleplayRising_Server] Source: PrefabCollectionPrefabTag
+[Warning:RoleplayRising_Server] Source: UsesSpawnTag
+[Warning:RoleplayRising_Server] Source: ScriptUpdate
+[Warning:RoleplayRising_Server] Source: Networked
+[Warning:RoleplayRising_Server] Source: DestroyOnSpawn
+[Warning:RoleplayRising_Server] Source: GetOwnerRotationOnlyOnSpawnTag
+[Warning:RoleplayRising_Server] Source: GetOwnerTeamOnSpawn
+[Warning:RoleplayRising_Server] Source: YieldResourceSource
+[Warning:RoleplayRising_Server] Source: CollisionCastOnSpawn
+[Warning:RoleplayRising_Server] Source: EntitySpawnedMetadata
+[Warning:RoleplayRising_Server] Source: EntityMetadata
+[Warning:RoleplayRising_Server] Source: NetworkSnapshotType
+[Warning:RoleplayRising_Server] Killer: AbilityBar_Server
+[Warning:RoleplayRising_Server] Killer: AbilityBar_Shared
+[Warning:RoleplayRising_Server] Killer: Blood
+[Warning:RoleplayRising_Server] Killer: Equipment
+[Warning:RoleplayRising_Server] Killer: BuffResistances
+[Warning:RoleplayRising_Server] Killer: InventoryOwner
+[Warning:RoleplayRising_Server] Killer: PlayerCharacter
+[Warning:RoleplayRising_Server] Killer: Team
+[Warning:RoleplayRising_Server] Killer: ReturnToNetherWaypoint
+[Warning:RoleplayRising_Server] Killer: BloodMoonBuffState
+[Warning:RoleplayRising_Server] Killer: Mounter
+[Warning:RoleplayRising_Server] Killer: Resident
+[Warning:RoleplayRising_Server] Killer: TakeDamageInSun
+[Warning:RoleplayRising_Server] Killer: TakeDamageInSunDebuffState
+[Warning:RoleplayRising_Server] Killer: EntityInput
+[Warning:RoleplayRising_Server] Killer: ControlledBy
+[Warning:RoleplayRising_Server] Killer: Interactor
+[Warning:RoleplayRising_Server] Killer: Residency
+[Warning:RoleplayRising_Server] Killer: RespawnCharacter
+[Warning:RoleplayRising_Server] Killer: CurrentTileModelEditing
+[Warning:RoleplayRising_Server] Killer: Script_CreateGameplayEventOnDamageDealtToEntityCategory_DataServer
+[Warning:RoleplayRising_Server] Killer: Script_ApplyBuffUnderHealthThreshhold_DataServer
+[Warning:RoleplayRising_Server] Killer: LocalToWorld
+[Warning:RoleplayRising_Server] Killer: Rotation
+[Warning:RoleplayRising_Server] Killer: Translation
+[Warning:RoleplayRising_Server] Killer: PhysicsCollider
+[Warning:RoleplayRising_Server] Killer: StaticPhysicsWorldBodyIndex
+[Warning:RoleplayRising_Server] Killer: PrefabGUID
+[Warning:RoleplayRising_Server] Killer: AbilityBarInitializationState
+[Warning:RoleplayRising_Server] Killer: Aggroable
+[Warning:RoleplayRising_Server] Killer: FactionReference
+[Warning:RoleplayRising_Server] Killer: VBloodConsumeSource
+[Warning:RoleplayRising_Server] Killer: CustomizationFeatures
+[Warning:RoleplayRising_Server] Killer: DestroyData
+[Warning:RoleplayRising_Server] Killer: DestroyState
+[Warning:RoleplayRising_Server] Killer: Energy
+[Warning:RoleplayRising_Server] Killer: Buffable
+[Warning:RoleplayRising_Server] Killer: GlobalCooldown
+[Warning:RoleplayRising_Server] Killer: Hideable
+[Warning:RoleplayRising_Server] Killer: Stealthable
+[Warning:RoleplayRising_Server] Killer: Health
+[Warning:RoleplayRising_Server] Killer: HealthConstants
+[Warning:RoleplayRising_Server] Killer: Immortal
+[Warning:RoleplayRising_Server] Killer: LastTranslation
+[Warning:RoleplayRising_Server] Killer: Movement
+[Warning:RoleplayRising_Server] Killer: PavementBonus
+[Warning:RoleplayRising_Server] Killer: CollisionRadius
+[Warning:RoleplayRising_Server] Killer: MapCollision
+[Warning:RoleplayRising_Server] Killer: Velocity
+[Warning:RoleplayRising_Server] Killer: TargetDirection
+[Warning:RoleplayRising_Server] Killer: TileBounds
+[Warning:RoleplayRising_Server] Killer: TilePosition
+[Warning:RoleplayRising_Server] Killer: TileModelSpatialData
+[Warning:RoleplayRising_Server] Killer: TileData
+[Warning:RoleplayRising_Server] Killer: VBloodAbilityOwnerData
+[Warning:RoleplayRising_Server] Killer: BloodMoonBuff
+[Warning:RoleplayRising_Server] Killer: CanFly
+[Warning:RoleplayRising_Server] Killer: EntityCategory
+[Warning:RoleplayRising_Server] Killer: Immaterial
+[Warning:RoleplayRising_Server] Killer: Invulnerable
+[Warning:RoleplayRising_Server] Killer: KeepMountBuffOnAbilityImpair
+[Warning:RoleplayRising_Server] Killer: LifeLeech
+[Warning:RoleplayRising_Server] Killer: Vision
+[Warning:RoleplayRising_Server] Killer: EntityAimData
+[Warning:RoleplayRising_Server] Killer: MoveVelocity
+[Warning:RoleplayRising_Server] Killer: ModifiableValueIds
+[Warning:RoleplayRising_Server] Killer: ResistanceData
+[Warning:RoleplayRising_Server] Killer: UnitStats
+[Warning:RoleplayRising_Server] Killer: ImpactMaterial
+[Warning:RoleplayRising_Server] Killer: NetworkedTimeout
+[Warning:RoleplayRising_Server] Killer: NetworkedSettings
+[Warning:RoleplayRising_Server] Killer: Latency
+[Warning:RoleplayRising_Server] Killer: FrameChanged
+[Warning:RoleplayRising_Server] Killer: NetworkId
+[Warning:RoleplayRising_Server] Killer: NetworkSnapshot
+[Warning:RoleplayRising_Server] Killer: HybridModelSeed
+[Warning:RoleplayRising_Server] Killer: DeathRagdollForce
+[Warning:RoleplayRising_Server] Killer: TileModel
+[Warning:RoleplayRising_Server] Killer: CombatMusicListener_Shared
+[Warning:RoleplayRising_Server] Killer: PlacementDestroyData
+[Warning:RoleplayRising_Server] Killer: Interactable
+[Warning:RoleplayRising_Server] Killer: InteractedUpon
+[Warning:RoleplayRising_Server] Killer: TravelToTargetRadius
+[Warning:RoleplayRising_Server] Killer: DynamicCollision
+[Warning:RoleplayRising_Server] Killer: FallToHeight
+[Warning:RoleplayRising_Server] Killer: Height
+[Warning:RoleplayRising_Server] Killer: JumpFromCliffs
+[Warning:RoleplayRising_Server] Killer: CharacterVoiceActivity
+[Warning:RoleplayRising_Server] Killer: IsSpellControlled
+[Warning:RoleplayRising_Server] Killer: RestrictPlacementArea
+[Warning:RoleplayRising_Server] Killer: NetworkInterpolated_Shared
+[Warning:RoleplayRising_Server] Killer: AttachParentId
+[Warning:RoleplayRising_Server] Killer: LinkedEntityGroup [B]
+[Warning:RoleplayRising_Server] Killer: FollowerBuffer [B]
+[Warning:RoleplayRising_Server] Killer: AttachedBuffer [B]
+[Warning:RoleplayRising_Server] Killer: AbilityGroupSlotBuffer [B]
+[Warning:RoleplayRising_Server] Killer: VBloodAbilityBuffEntry [B]
+[Warning:RoleplayRising_Server] Killer: EntitiesInView_Server [B]
+[Warning:RoleplayRising_Server] Killer: BoolModificationBuffer [B]
+[Warning:RoleplayRising_Server] Killer: EntityModificationBuffer [B]
+[Warning:RoleplayRising_Server] Killer: FloatModificationBuffer [B]
+[Warning:RoleplayRising_Server] Killer: Float3ModificationBuffer [B]
+[Warning:RoleplayRising_Server] Killer: IntModificationBuffer [B]
+[Warning:RoleplayRising_Server] Killer: NetworkedEntityModificationBuffer [B]
+[Warning:RoleplayRising_Server] Killer: PrefabGUIDModificationBuffer [B]
+[Warning:RoleplayRising_Server] Killer: CombatMusicListener_SourceElement [B]
+[Warning:RoleplayRising_Server] Killer: EquipmentSetBuff [B]
+[Warning:RoleplayRising_Server] Killer: BloodQualityBuff [B]
+[Warning:RoleplayRising_Server] Killer: AttachMapIconsToEntity [B]
+[Warning:RoleplayRising_Server] Killer: MapIconPerUserData [B]
+[Warning:RoleplayRising_Server] Killer: SharedGameplayConditionReference [B]
+[Warning:RoleplayRising_Server] Killer: GameplayConditionGroup [B]
+[Warning:RoleplayRising_Server] Killer: GameplayCondition [B]
+[Warning:RoleplayRising_Server] Killer: NetSnapshot [B]
+[Warning:RoleplayRising_Server] Killer: SnapshotFrameChangedBuffer [B]
+[Warning:RoleplayRising_Server] Killer: BuffByItemCategoryCount [B]
+[Warning:RoleplayRising_Server] Killer: BuffOnConnectionStatusElement [B]
+[Warning:RoleplayRising_Server] Killer: InteractAbilityBuffer [B]
+[Warning:RoleplayRising_Server] Killer: CreateGameplayEventsOnAbilityTrigger [B]
+[Warning:RoleplayRising_Server] Killer: CreateGameplayEventsOnAbilityTriggerAbilityPrefabTargets [B]
+[Warning:RoleplayRising_Server] Killer: CreateGameplayEventOnDamageTaken [B]
+[Warning:RoleplayRising_Server] Killer: CreateGameplayEventsOnSpawn [B]
+[Warning:RoleplayRising_Server] Killer: ApplyBuffOnGameplayEvent [B]
+[Warning:RoleplayRising_Server] Killer: ApplyBuffOnGameplayEventEntry [B]
+[Warning:RoleplayRising_Server] Killer: GameplayEventIdMapping [B]
+[Warning:RoleplayRising_Server] Killer: Snapshot_AbilityGroupSlotBuffer [B]
+[Warning:RoleplayRising_Server] Killer: Snapshot_FollowerBuffer [B]
+[Warning:RoleplayRising_Server] Killer: PrefabCollectionPrefabTag
+[Warning:RoleplayRising_Server] Killer: UsesSpawnTag
+[Warning:RoleplayRising_Server] Killer: MapIcon_Server
+[Warning:RoleplayRising_Server] Killer: TilePlacementTag
+[Warning:RoleplayRising_Server] Killer: TileRestrictionAreaTag
+[Warning:RoleplayRising_Server] Killer: RadialDamageTarget
+[Warning:RoleplayRising_Server] Killer: DisableWhenNoPlayersInRange
+[Warning:RoleplayRising_Server] Killer: ScriptSpawn
+[Warning:RoleplayRising_Server] Killer: Networked
+[Warning:RoleplayRising_Server] Killer: MoveStopTrigger
+[Warning:RoleplayRising_Server] Killer: HideOutsideVision
+[Warning:RoleplayRising_Server] Killer: VampireTag
+[Warning:RoleplayRising_Server] Killer: CanBuildTileModels
+[Warning:RoleplayRising_Server] Killer: EntitySpawnedMetadata
+[Warning:RoleplayRising_Server] Killer: IsConnected
+[Warning:RoleplayRising_Server] Killer: EntityMetadata
+[Warning:RoleplayRising_Server] Killer: BlobAssetOwner
+[Warning:RoleplayRising_Server] Killer: TileModelRegistrationState
+[Warning:RoleplayRising_Server] Killer: NetworkSnapshotType
+[Warning:RoleplayRising_Server] Killer: TileModelLayer
+[Warning:RoleplayRising_Server] Died: AbilityBar_Server
+[Warning:RoleplayRising_Server] Died: AbilityBar_Shared
+[Warning:RoleplayRising_Server] Died: AggroConsumer
+[Warning:RoleplayRising_Server] Died: Follower
+[Warning:RoleplayRising_Server] Died: Dead
+[Warning:RoleplayRising_Server] Died: EntityOwner
+[Warning:RoleplayRising_Server] Died: EntityCreator
+[Warning:RoleplayRising_Server] Died: BuffResistances
+[Warning:RoleplayRising_Server] Died: InventoryOwner
+[Warning:RoleplayRising_Server] Died: Team
+[Warning:RoleplayRising_Server] Died: FeedableInventory
+[Warning:RoleplayRising_Server] Died: EntityInput
+[Warning:RoleplayRising_Server] Died: AiMove_Server
+[Warning:RoleplayRising_Server] Died: BehaviourTreeInstance
+[Warning:RoleplayRising_Server] Died: LastPathRequest
+[Warning:RoleplayRising_Server] Died: Mountable
+[Warning:RoleplayRising_Server] Died: LocalToWorld
+[Warning:RoleplayRising_Server] Died: Rotation
+[Warning:RoleplayRising_Server] Died: Translation
+[Warning:RoleplayRising_Server] Died: PhysicsCollider
+[Warning:RoleplayRising_Server] Died: StaticPhysicsWorldBodyIndex
+[Warning:RoleplayRising_Server] Died: PrefabGUID
+[Warning:RoleplayRising_Server] Died: AbilityBarInitializationState
+[Warning:RoleplayRising_Server] Died: GainAggroByAlert
+[Warning:RoleplayRising_Server] Died: GainAggroByVicinity
+[Warning:RoleplayRising_Server] Died: GainAlertByVicinity
+[Warning:RoleplayRising_Server] Died: AggroModifiers
+[Warning:RoleplayRising_Server] Died: AlertModifiers
+[Warning:RoleplayRising_Server] Died: AggroDamageHistoryConfig
+[Warning:RoleplayRising_Server] Died: AiPrioritization_Data
+[Warning:RoleplayRising_Server] Died: AiPrioritization_State
+[Warning:RoleplayRising_Server] Died: AiMoveSpeeds
+[Warning:RoleplayRising_Server] Died: CastHistoryData
+[Warning:RoleplayRising_Server] Died: FactionReference
+[Warning:RoleplayRising_Server] Died: DestroyData
+[Warning:RoleplayRising_Server] Died: DestroyState
+[Warning:RoleplayRising_Server] Died: Buffable
+[Warning:RoleplayRising_Server] Died: Hideable
+[Warning:RoleplayRising_Server] Died: Stealthable
+[Warning:RoleplayRising_Server] Died: Health
+[Warning:RoleplayRising_Server] Died: HealthConstants
+[Warning:RoleplayRising_Server] Died: LastTranslation
+[Warning:RoleplayRising_Server] Died: Movement
+[Warning:RoleplayRising_Server] Died: CollisionRadius
+[Warning:RoleplayRising_Server] Died: MapCollision
+[Warning:RoleplayRising_Server] Died: Velocity
+[Warning:RoleplayRising_Server] Died: SpawnTransform
+[Warning:RoleplayRising_Server] Died: TargetDirection
+[Warning:RoleplayRising_Server] Died: JoinDefaultTeamOnSpawn
+[Warning:RoleplayRising_Server] Died: TileBounds
+[Warning:RoleplayRising_Server] Died: TilePosition
+[Warning:RoleplayRising_Server] Died: TileModelSpatialData
+[Warning:RoleplayRising_Server] Died: TileData
+[Warning:RoleplayRising_Server] Died: UnitRespawnTime
+[Warning:RoleplayRising_Server] Died: WoundedConstants
+[Warning:RoleplayRising_Server] Died: EntityCategory
+[Warning:RoleplayRising_Server] Died: Immaterial
+[Warning:RoleplayRising_Server] Died: Invulnerable
+[Warning:RoleplayRising_Server] Died: UnitLevel
+[Warning:RoleplayRising_Server] Died: Vision
+[Warning:RoleplayRising_Server] Died: EntityAimData
+[Warning:RoleplayRising_Server] Died: MoveVelocity
+[Warning:RoleplayRising_Server] Died: ModifiableValueIds
+[Warning:RoleplayRising_Server] Died: CanPreventDisableWhenNoPlayersInRange
+[Warning:RoleplayRising_Server] Died: ResistanceData
+[Warning:RoleplayRising_Server] Died: UnitStats
+[Warning:RoleplayRising_Server] Died: AiMove_Shared
+[Warning:RoleplayRising_Server] Died: MinionSpawnData
+[Warning:RoleplayRising_Server] Died: GenericCombatMovementData
+[Warning:RoleplayRising_Server] Died: MiscAiGameplayData
+[Warning:RoleplayRising_Server] Died: ImpactMaterial
+[Warning:RoleplayRising_Server] Died: NetworkedTimeout
+[Warning:RoleplayRising_Server] Died: NetworkedSettings
+[Warning:RoleplayRising_Server] Died: FrameChanged
+[Warning:RoleplayRising_Server] Died: NetworkId
+[Warning:RoleplayRising_Server] Died: NetworkSnapshot
+[Warning:RoleplayRising_Server] Died: HybridModelSeed
+[Warning:RoleplayRising_Server] Died: BehaviourTreeBinding
+[Warning:RoleplayRising_Server] Died: BehaviourTreeState
+[Warning:RoleplayRising_Server] Died: BehaviourTreeStateMetadata
+[Warning:RoleplayRising_Server] Died: TileModel
+[Warning:RoleplayRising_Server] Died: AiDebugDraw
+[Warning:RoleplayRising_Server] Died: Pathfinder
+[Warning:RoleplayRising_Server] Died: PlacementDestroyData
+[Warning:RoleplayRising_Server] Died: CastleAreaRequirement
+[Warning:RoleplayRising_Server] Died: Interactable
+[Warning:RoleplayRising_Server] Died: InteractedUpon
+[Warning:RoleplayRising_Server] Died: SpawnBuffIfPlayerInRange
+[Warning:RoleplayRising_Server] Died: DynamicCollision
+[Warning:RoleplayRising_Server] Died: Height
+[Warning:RoleplayRising_Server] Died: NameableInteractable
+[Warning:RoleplayRising_Server] Died: AoETargetImportance
+[Warning:RoleplayRising_Server] Died: YieldEssenceOnDeath
+[Warning:RoleplayRising_Server] Died: IsSpellControlled
+[Warning:RoleplayRising_Server] Died: NetworkInterpolated_Shared
+[Warning:RoleplayRising_Server] Died: AttachParentId
+[Warning:RoleplayRising_Server] Died: AggroBuffer [B]
+[Warning:RoleplayRising_Server] Died: AlertBuffer [B]
+[Warning:RoleplayRising_Server] Died: AggroCandidateBufferElement [B]
+[Warning:RoleplayRising_Server] Died: AggroDamageHistoryBufferElement [B]
+[Warning:RoleplayRising_Server] Died: ExternalAggroBufferElement [B]
+[Warning:RoleplayRising_Server] Died: AttachedBuffer [B]
+[Warning:RoleplayRising_Server] Died: AbilityGroupSlotBuffer [B]
+[Warning:RoleplayRising_Server] Died: EntitiesInView_Server [B]
+[Warning:RoleplayRising_Server] Died: BoolModificationBuffer [B]
+[Warning:RoleplayRising_Server] Died: EntityModificationBuffer [B]
+[Warning:RoleplayRising_Server] Died: FloatModificationBuffer [B]
+[Warning:RoleplayRising_Server] Died: Float3ModificationBuffer [B]
+[Warning:RoleplayRising_Server] Died: IntModificationBuffer [B]
+[Warning:RoleplayRising_Server] Died: NetworkedEntityModificationBuffer [B]
+[Warning:RoleplayRising_Server] Died: PrefabGUIDModificationBuffer [B]
+[Warning:RoleplayRising_Server] Died: BehaviourTreeStateActiveBuffsBuffer [B]
+[Warning:RoleplayRising_Server] Died: BlackboardElement [B]
+[Warning:RoleplayRising_Server] Died: CastHistoryBufferElement [B]
+[Warning:RoleplayRising_Server] Died: SharedGameplayConditionReference [B]
+[Warning:RoleplayRising_Server] Died: GameplayConditionGroup [B]
+[Warning:RoleplayRising_Server] Died: GameplayCondition [B]
+[Warning:RoleplayRising_Server] Died: NetSnapshot [B]
+[Warning:RoleplayRising_Server] Died: SnapshotFrameChangedBuffer [B]
+[Warning:RoleplayRising_Server] Died: BehaviourTreeStateBuffsBuffer [B]
+[Warning:RoleplayRising_Server] Died: PathBuffer [B]
+[Warning:RoleplayRising_Server] Died: PathRequestFilledSegmentBuffer [B]
+[Warning:RoleplayRising_Server] Died: UnsmoothedPathBuffer [B]
+[Warning:RoleplayRising_Server] Died: InteractAbilityBuffer [B]
+[Warning:RoleplayRising_Server] Died: CreateGameplayEventsOnTick [B]
+[Warning:RoleplayRising_Server] Died: HealOnGameplayEvent [B]
+[Warning:RoleplayRising_Server] Died: GameplayEventIdMapping [B]
+[Warning:RoleplayRising_Server] Died: DropTableBuffer [B]
+[Warning:RoleplayRising_Server] Died: Script_SCTChatOnAggro_Buffer [B]
+[Warning:RoleplayRising_Server] Died: BehaviourTreeNodeInstanceElement [B]
+[Warning:RoleplayRising_Server] Died: Snapshot_AbilityGroupSlotBuffer [B]
+[Warning:RoleplayRising_Server] Died: PrefabCollectionPrefabTag
+[Warning:RoleplayRising_Server] Died: UsesSpawnTag
+[Warning:RoleplayRising_Server] Died: CharmSource
+[Warning:RoleplayRising_Server] Died: MoveEntity
+[Warning:RoleplayRising_Server] Died: TilePlacementTag
+[Warning:RoleplayRising_Server] Died: DisableWhenNoPlayersInRange
+[Warning:RoleplayRising_Server] Died: Networked
+[Warning:RoleplayRising_Server] Died: MoveStopTrigger
+[Warning:RoleplayRising_Server] Died: SnapToHeight
+[Warning:RoleplayRising_Server] Died: HideOutsideVision
+[Warning:RoleplayRising_Server] Died: DropTable
+[Warning:RoleplayRising_Server] Died: DropTableOnDeath
+[Warning:RoleplayRising_Server] Died: EntitySpawnedMetadata
+[Warning:RoleplayRising_Server] Died: EntityMetadata
+[Warning:RoleplayRising_Server] Died: BlobAssetOwner
+[Warning:RoleplayRising_Server] Died: TileModelRegistrationState
+[Warning:RoleplayRising_Server] Died: NetworkSnapshotType
+[Warning:RoleplayRising_Server] Died: TileModelLayer
+[Warning:RoleplayRising_Server] -+source
